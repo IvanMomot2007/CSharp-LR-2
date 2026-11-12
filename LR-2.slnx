@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RingConsoleApp/RingConsoleApp.csproj" />
+  <Project Path="RingLibrary/RingLibrary.csproj" />
+  <Project Path="RingTests/RingTests.csproj" />
+</Solution>
